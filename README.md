@@ -1,1 +1,2 @@
-# mysql-learning
+# 7-days Mysql learning
+>>Organizer: Datawhale
