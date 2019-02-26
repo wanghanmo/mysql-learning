@@ -24,7 +24,7 @@ MySQL 为关系型数据库(Relational Database Management System), 这种所谓
 - **值(value):** 行的具体信息, 每个值必须与该列的数据类型相同;
 - **键(key):** 表中用来识别某个特定的人\物的方法, 键的值在当前列中具有唯一性。
 
-## 4.MySQL数据库管理系统
+## MySQL数据库管理系统
 
 MySQL 是最流行的关系型数据库管理系统，在 WEB 应用方面 MySQL 是最好RDBMS(Relational Database Management System：关系数据库管理系统)应用软件之一
 
