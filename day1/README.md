@@ -17,8 +17,7 @@ sudo apt-get install libmysqlclient-dev
 -u 表示选择登陆的用户名， -p 表示登陆的用户密码，上面命令输入之后会提示输入密码，此时输入密码就可以登录到mysql。
 
 ## MySQL的相关概念介绍
-MySQL 为关系型数据库(Relational Database Management System), 这种所谓的"关系型"可以理解为"表格"的概念, 一个关系型数据库由一个或数个表格组成, 如图所示的一个表格:
-
+MySQL 为关系型数据库(Relational Database Management System), 这种所谓的"关系型"可以理解为"表格"的概念, 一个关系型数据库由一个或数个表格组成。
 - **表头(header):** 每一列的名称;
 - **列(row):** 具有相同数据类型的数据的集合;
 - **行(col):** 每一行用来描述某个人/物的具体信息;
