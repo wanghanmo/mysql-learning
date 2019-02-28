@@ -4,7 +4,7 @@
 教程[MySQL导入示例数据库-MySQL教程™](https://www.yiibai.com/mysql/how-to-load-sample-database-into-mysql-database-server.html)
 打开Navicat，按F6打开命令行界面，输入
 `CREATE DATABASE IF NOT EXISTS yiibaidb DEFAULT CHARSET utf8 COLLATE utf8_general_ci;`
-
+![Navicat](img/navicat.png)
 MySQL示例数据库模式由以下表组成：
 
 - `customers`: 存储客户的数据。
@@ -181,7 +181,7 @@ SELECT Email From email
 GROUP BY Email HAVING count(Email) > 1;
 ```
 运行结果：
-
+![运行结果](img/结果1.png)
 
 ### 项目二：查找大国（难度：简单）
 创建如下 World 表
@@ -225,7 +225,7 @@ INSERT INTO World VALUES( 'Angola' , 'Africa' ,1246700,20609294,100990000);
 SELECT name, population, area FROM World
 WHERE (area > 3000000 OR (population > 25000000 AND gdp > 20000000));
 ```
-结果：
-
+运行结果：
+![运行结果](img/结果2.png)
 
 **注：一些顺序问题：SELECT / FROM /WHERE (LIMIT /OFFSET)/GROUP BY/ HAVING **
