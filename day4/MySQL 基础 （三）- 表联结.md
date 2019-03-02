@@ -156,3 +156,6 @@ AND e1.id > e2.id;
 -- 查询结果
 select * from email;
 ```
+## 参考
+- https://blog.csdn.net/strmat/article/details/88079816
+- https://blog.csdn.net/TNTZS666/article/details/88074247
