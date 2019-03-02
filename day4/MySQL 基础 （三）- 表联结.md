@@ -57,7 +57,7 @@ SELECT * FROM [TABLE 1] CROSS JOIN [TABLE 2]
 或者：SELECT * FROM [TABLE 1], [TABLE 2]
 ```
 ### 联结方式的区别和联系
-![以上几种联结方式的区别和联系](https://img-blog.csdnimg.cn/20190302194109799.png)
+  ![以上几种联结方式的区别和联系](https://img-blog.csdnimg.cn/20190302194109799.png)
 
 ## 作业
 ### 项目五：组合两张表 （难度：简单）
