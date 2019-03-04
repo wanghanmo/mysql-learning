@@ -1,4 +1,4 @@
-#Task 6 复杂项目实战
+# Task 6 复杂项目实战
 ## 项目十：行程和用户（难度：困难）
 Trips 表中存所有出租车的行程信息。每段行程有唯一键 Id，Client_Id 和 Driver_Id 是 Users 表中 Users_Id 的外键。Status 是枚举类型，枚举成员为 (‘completed’, ‘cancelled_by_driver’, ‘cancelled_by_client’)。
 +----+-----------+-----------+---------+--------------------+----------+
